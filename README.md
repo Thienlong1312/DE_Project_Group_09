@@ -1,5 +1,6 @@
 # DE_Project_Group_09 - Analysis Vietnam Jobs
 This is our DE project from group 09, Master degree of Data Science K31, HCMUS.
+
 Our group: Bui Thien Long (21C29008), Nguyen Tran Huu Thinh (21C29018), Bui Thi Hoang Yen (21C29030)
 
 ![Schema pic](https://user-images.githubusercontent.com/67893231/222876032-c60b63ed-11d9-4ce8-984d-b621160027d8.PNG)
