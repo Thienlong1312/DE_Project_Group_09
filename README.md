@@ -4,7 +4,7 @@ This is our DE project from group 09, Master degree of Data Science K31, HCMUS, 
 Our group: Bui Thien Long (21C29008), Nguyen Tran Huu Thinh (21C29018), Bui Thi Hoang Yen (21C29030)
 
 <p align="center">
-  <img width="112" height="112" src="etl.jpg" alt="ETL Pipeline">
+  <img width="1920" height="1080" src="etl.jpg" alt="ETL Pipeline">
 </p>
 
 In this project, we built a system that includes the following components:
